@@ -44,7 +44,7 @@ Quick findings from EDA:
 
 ## c. GitHub repository link
 
-<GITHUB_REPO_LINK>
+https://github.com/2026aj05167/german-credit-risk-classifier
 
 ```
 german-credit-risk-classifier/
