@@ -2,8 +2,8 @@
 
 ML Assignment 2, Machine Learning (S1-26_AIMLZG565), M.Tech AIML, BITS Pilani WILP
 
-- **Live Streamlit app:** <STREAMLIT_APP_LINK>
-- **GitHub repository:** <GITHUB_REPO_LINK>
+- **Live Streamlit app:** https://2026aj05167-german-credit-risk-classifier.streamlit.app/
+- **GitHub repository:** https://github.com/2026aj05167/german-credit-risk-classifier
 
 ---
 
